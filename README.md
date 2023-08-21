@@ -1,6 +1,6 @@
 # Linked List in JavaScript
 
-Singly linked list implementation in JavaScript. Includes manual tests.
+Singly linked list implementation in JavaScript as part of The Odin Project curriculum. Includes manual tests.
 
 ## Methods
 
